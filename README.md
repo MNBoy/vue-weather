@@ -19,6 +19,8 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### See Demo
+See [Weather App](https://vue-weather-site.netlify.app/).
+***
+# Images
+![Home](https://i.ibb.co/8gB1B19/Home.png)
